@@ -1,0 +1,28 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Pink Elephant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elephant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/URV-files/img/2_Pink Elephant.png"
+			}
+		},
+		{
+			"name": "Egg",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Egg",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/URV-files/img/1_Egg.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(7)]
+[wildcard(2)]
